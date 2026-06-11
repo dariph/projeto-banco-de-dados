@@ -3,3 +3,7 @@
 
 # Ignorar configurações do VS Code
 .vscode/
+
+*.log
+
+node_modules/
